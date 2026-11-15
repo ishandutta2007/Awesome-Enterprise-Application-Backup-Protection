@@ -70,3 +70,12 @@ Star the repo if you find it useful!
 
 **Made for platform engineers, backup administrators, and organizations building application-resilient infrastructure.**  
 Let's make enterprise application backup more open, consistent, and verifiable.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Enterprise-Application-Backup-Protection&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Enterprise-Application-Backup-Protection_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Enterprise-Application-Backup-Protection_growth.svg">
+  </picture>
+</a>
