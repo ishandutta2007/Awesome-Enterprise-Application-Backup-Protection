@@ -63,9 +63,9 @@ Enterprise SaaS and cloud-managed data protection platforms offer turnkey orches
 
 Open-source backup tools provide complete data sovereignty, eliminate per-workload or per-TB vendor licensing lock-in, and allow platform teams to define custom application-consistent workflows as code.
 
-*Sorted in descending order by GitHub Stars ⭐.*
+*Sorted in descending order by GitHub_Stars ⭐.*
 
-| Rank | Project | Stars & Community Badge | Primary Architecture & Application Focus | Key Features & Enterprise Capabilities |
+| Rank | Project | GitHub_Stars & Community Badge | Primary Architecture & Application Focus | Key Features & Enterprise Capabilities |
 |:---:|:---|:---:|:---|:---|
 | 1 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Fast, secure, cross-platform backup program written in Go | Content-defined deduplication, client-side AES-256 encryption, native backend support for AWS S3, Google Cloud Storage, Azure Blob, MinIO, SFTP, and local storage. Requires external pre/post hook scripts for database quiescing. |
 | 2 | **[Duplicati](https://github.com/duplicati/duplicati)** | [![Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers) | Free backup client with web UI for Windows, macOS, and Linux servers | Strong AES-256 encryption, incremental chunk deduplication, built-in scheduler, intuitive web administration dashboard, and integrations with standard cloud storage protocols (S3, WebDAV, FTP, B2). |
@@ -123,7 +123,7 @@ We welcome community contributions from backup architects, platform engineers, a
    ```
 3. 📝 **Add or update an entry** in `README.md` maintaining consistent formatting:
    - For SaaS tools: include verified starting tier pricing, free tier/trial limits, and company scale.
-   - For Open-Source projects: provide the social white star badge linking to `/stargazers`, repository summary, and architectural focus.
+   - For Open-Source projects: provide the social white Stars_Badge linking to `/stargazers`, repository summary, and architectural focus.
 4. 📬 **Submit a Pull Request** with a brief summary of why the project fits enterprise application protection.
 
 ---
@@ -151,3 +151,12 @@ Thank you for supporting open, verifiable, and resilient enterprise data infrast
 ## 📈 Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Enterprise-Application-Backup-Protection&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Enterprise-Application-Backup-Protection&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Enterprise-Application-Backup-Protection&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Enterprise-Application-Backup-Protection_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Enterprise-Application-Backup-Protection_growth.svg">
+  </picture>
+</a>
