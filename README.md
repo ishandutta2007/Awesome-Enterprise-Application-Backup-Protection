@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Application-Backup-Protection
 
-# Top Enterprise Application Backup & Protection Ecosystem
+## Top Enterprise Application Backup & Protection Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Application-Consistent Backup, Kubernetes Data Protection & Self-Hosted Recovery*  
